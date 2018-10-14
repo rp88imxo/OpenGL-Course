@@ -1,0 +1,13 @@
+﻿  Source.cpp
+m:\mystuff\с++shit\opengl\apps\lessonopengl\lessonopengl\source.cpp(39): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+m:\mystuff\с++shit\opengl\apps\lessonopengl\lessonopengl\source.cpp(218): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+m:\mystuff\с++shit\opengl\apps\lessonopengl\lessonopengl\source.cpp(270): warning C4305: +=: усечение из "double" в "float"
+m:\mystuff\с++shit\opengl\apps\lessonopengl\lessonopengl\source.cpp(277): warning C4305: -=: усечение из "double" в "float"
+m:\mystuff\с++shit\opengl\apps\lessonopengl\lessonopengl\source.cpp(293): warning C4305: +=: усечение из "double" в "float"
+m:\mystuff\с++shit\opengl\apps\lessonopengl\lessonopengl\source.cpp(299): warning C4305: -=: усечение из "double" в "float"
+m:\mystuff\с++shit\opengl\apps\lessonopengl\lessonopengl\source.cpp(308): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+m:\mystuff\с++shit\opengl\apps\lessonopengl\lessonopengl\source.cpp(312): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+m:\mystuff\с++shit\opengl\apps\lessonopengl\lessonopengl\source.cpp(316): warning C4018: <: несоответствие типов со знаком и без знака
+m:\mystuff\с++shit\opengl\apps\lessonopengl\lessonopengl\source.cpp(323): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+m:\mystuff\с++shit\opengl\apps\lessonopengl\lessonopengl\source.cpp(341): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  LessonOpenGL.vcxproj -> M:\MyStuff\С++SHit\OpenGL\Apps\LessonOpenGL\Debug\LessonOpenGL.exe
